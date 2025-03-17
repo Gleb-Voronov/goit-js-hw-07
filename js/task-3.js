@@ -7,5 +7,3 @@ input.addEventListener("input", () => {
 });
 
 
-const placeholderEl = document.querySelector("#name-input")
-placeholderEl.classList.add('inputEL');
